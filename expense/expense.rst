@@ -1,8 +1,8 @@
 :banner: banners/expense.jpg
 
-========
+=========
 Expenses
-========
+=========
 
 How to set expense types
 ========================
